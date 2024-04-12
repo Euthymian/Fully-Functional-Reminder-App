@@ -1,4 +1,4 @@
-# Fully Functional Remaider App
+# Fully Functional Reminder App
 
 ## Installation
 
